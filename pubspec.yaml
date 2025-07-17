@@ -2,13 +2,13 @@ name: dsa_dart
 description: A sample command-line application.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
-
 environment:
   sdk: ^3.7.2
 
 # Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  bloc: ^9.0.0
+  bloc_test: ^10.0.0
 
 dev_dependencies:
   lints: ^5.0.0
